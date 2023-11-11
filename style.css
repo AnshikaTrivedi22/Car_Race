@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.hidden{
+    display: none;
+}
+ .car{
+    height: 70px;
+    width:50px;
+    background-color: red;
+    position: absolute;
+   bottom:120px;
+ }
+.gameArea{
+    height:100vh;
+    width: 400px;
+    background: #2d3436;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+}
+.roadLines{
+    width: 10px;
+    height: 100px;
+    background: white;
+    position: absolute;
+    margin-left: 195px;
+}
